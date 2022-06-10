@@ -10,7 +10,7 @@ defaults = {
         'base_url': 'https://api.genius.com'
     },
     'message': {
-        'search_fail': 'The song were not found!',
+        'search_fail': 'The song were not found',
         'wrong_input': 'Wrong number of arguments.\n' \
                        'Use two parameters to perform a custom search ' \
                        'or none to get the song currently playing on Spotify.'
